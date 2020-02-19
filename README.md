@@ -1,4 +1,4 @@
-## 使用 Electron + React Hooks  完成一个 Markdown 笔记本
+## 使用 Electron + React Hooks  工程模板
 
 本 repo 为主项目源代码
 
@@ -7,13 +7,6 @@
 本项目使用两个分支管理整个项目
 
 **master分支**
-
-
-
-
-**develop分支**
-
-develop 分支是开发分支，开发分支现在已经将整个项目开发完毕，如果想体验最终结果的同学，可以使用这个分支。
 
 ### 环境参数
 
